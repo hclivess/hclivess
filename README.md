@@ -10,7 +10,7 @@
 - 👨‍✈️ Pilot by Proxy
 - 🅺🅸🆂🆂 Defender of Native Implementations
 - 📷 Usurper of Light
-- 🛋️ Defender of Otto F. Kernberg
+- 🛋️ Otto F. Kernberg Defender
 - 🇬🇷 Aristotle Hater
 - 🇬🇷 Plato Enjoyer
 - ✝️️ Agnostic
