@@ -7,7 +7,7 @@
 - 🥷 Enemy of EVM
 - ⚗️ Enjoyer of Scents
 - 🏹 Builder and Enjoyer of Bows
-- 👨‍✈️ Builder and Enjoyer of FPV
+- 👨‍✈️ Pilot by Proxy
 - 🅺🅸🆂🆂 Defender of Native Implementations
 - 📷 Usurper of Light
 - 🛋️ Defender of Otto F. Kernberg
