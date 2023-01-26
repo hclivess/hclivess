@@ -7,7 +7,7 @@
 - ⚗️ Enjoyer of Scents, Archery 🏹, Bow-Building, ELRS ✈️
 - 🅺🅸🆂🆂 Defender of Native Implementations
 - 📷 Usurper of Light
-- 🛋️ Otto F. Kernberg Defender
+- 🛋️ Otto F. Kernberg Idealizer
 - 🇬🇷 Aristotle Hater, Plato Enjoyer
 - ✝️️ Agnostic, Ⓐnarchist
 - ₿itcoin Minimalist
