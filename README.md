@@ -21,3 +21,4 @@
 - 👤 Hacker Apologist
 - 🖼️ NFT Generator
 - ✡️ Ashkenazi Supremacist
+- 🪟 Windows Respecter
