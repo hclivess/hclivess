@@ -4,7 +4,7 @@
 - 👶 Father of [NADO](https://github.com/hclivess/nado)
 - 📖 Author of [videer](https://github.com/hclivess/videer), [sshauto](https://github.com/hclivess/sshauto)
 - 🥷 Enemy of EVM
-- ⚗️ Enjoyer of Scents, Archery 🏹, Bow-Building, FPV ✈️
+- ⚗️ Enjoyer of Scents, Archery 🏹, Bow-Building, ELRS ✈️
 - 🅺🅸🆂🆂 Defender of Native Implementations
 - 📷 Usurper of Light
 - 🛋️ Otto F. Kernberg Defender
