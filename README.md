@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**hclivess/hclivess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧒 Father of [Bismuth](https://github.com/bismuthfoundation/Bismuth)
+- 👶 Father of [NADO](https://github.com/hclivess/nado)
+- 📖 Author of [videer](https://github.com/hclivess/videer)
+- 📖 Author of [sshauto](https://github.com/hclivess/sshauto)
+- 🥷 Enemy of EVM
+- ⚗️ Enjoyer of Scents
+- 🏹 Builder and Enjoyer of Bows
+- 👨‍✈️ Builder and Enjoyer of FPV
+- 🅺🅸🆂🆂 Defender of Native Implementations
+- 🛋️ Defender of Otto F. Kernberg
+- 🇬🇷 Aristotle Hater
+- 🇬🇷 Plato Enjoyer
+- ✝️️ Agnostic
+- Ⓐnarchist
+- ₿itcoin Minimalist
