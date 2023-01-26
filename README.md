@@ -6,7 +6,7 @@
 - 📖 Author of [sshauto](https://github.com/hclivess/sshauto)
 - 🥷 Enemy of EVM
 - ⚗️ Enjoyer of Scents
-- 🏹 Builder and Enjoyer of Bows
+- 🏹 Archer's paradox Enabler and Practitioner
 - 👨‍✈️ Pilot by Proxy
 - 🅺🅸🆂🆂 Defender of Native Implementations
 - 📷 Usurper of Light
