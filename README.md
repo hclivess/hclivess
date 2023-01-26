@@ -2,19 +2,14 @@
 
 - 🧒 Father of [Bismuth](https://github.com/bismuthfoundation/Bismuth)
 - 👶 Father of [NADO](https://github.com/hclivess/nado)
-- 📖 Author of [videer](https://github.com/hclivess/videer)
-- 📖 Author of [sshauto](https://github.com/hclivess/sshauto)
+- 📖 Author of [videer](https://github.com/hclivess/videer), [sshauto](https://github.com/hclivess/sshauto)
 - 🥷 Enemy of EVM
-- ⚗️ Enjoyer of Scents
-- 🏹 Archer's Paradox Enabler and Practitioner
-- ✈️ FPV Enjoyer
+- ⚗️ Enjoyer of Scents, Archery 🏹, Bow-Building, FPV ✈️
 - 🅺🅸🆂🆂 Defender of Native Implementations
 - 📷 Usurper of Light
 - 🛋️ Otto F. Kernberg Defender
-- 🇬🇷 Aristotle Hater
-- 🇬🇷 Plato Enjoyer
-- ✝️️ Agnostic
-- Ⓐnarchist
+- 🇬🇷 Aristotle Hater, Plato Enjoyer
+- ✝️️ Agnostic, Ⓐnarchist
 - ₿itcoin Minimalist
 - ❌ Contratian
 - 🐍 Python Maximalist
@@ -22,3 +17,5 @@
 - 🖼️ NFT Generator
 - ✡️ Ashkenazi Supremacist
 - 🪟 Windows Respecter
+- 🎸Punk / Indie Listener
+- 🎷 Tongue Blocker
