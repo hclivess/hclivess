@@ -17,3 +17,4 @@
 - Ⓐnarchist
 - ₿itcoin Minimalist
 - ❌ Contratian
+- 🐍 Python Maximalist
