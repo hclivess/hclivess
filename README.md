@@ -21,3 +21,4 @@
 - 🎷 Tongue Blocker
 - 📙 SQLite Enjoyer
 - **{ }** noSQL Promoter
+- 🤔 INTJ Master Race
