@@ -9,7 +9,7 @@
 - 📷 Usurper of Light
 - 🛋️ Otto F. Kernberg Idealizer
 - 🇬🇷 Aristotle Hater, Plato Enjoyer
-- ✝️️ Agnostic, Ⓐnarchist, ❌ Contratian
+- ✝️️ Agnostic, SyndicⒶlist, ❌ Contratian
 - ₿itcoin Minimalist
 - 🐍 Python Maximalist
 - 👤 Hacker Apologist
