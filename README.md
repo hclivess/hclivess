@@ -7,7 +7,7 @@
 - 🥷 Enemy of EVM
 - ⚗️ Enjoyer of Scents
 - 🏹 Archer's Paradox Enabler and Practitioner
-- 👨‍✈️ Pilot by Proxy
+- ✈️ FPV Enjoyer
 - 🅺🅸🆂🆂 Defender of Native Implementations
 - 📷 Usurper of Light
 - 🛋️ Otto F. Kernberg Defender
