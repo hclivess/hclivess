@@ -18,3 +18,6 @@
 - ₿itcoin Minimalist
 - ❌ Contratian
 - 🐍 Python Maximalist
+- 👤 Hacker Apologist
+- 🖼️ NFT Generator
+- ✡️ Ashkenazi Supremacist
