@@ -19,3 +19,5 @@
 - 🪟 Windows Respecter
 - 🎸Punk / Indie Listener
 - 🎷 Tongue Blocker
+- 📙 SQLite Enjoyer
+- {} noSQL promoter
