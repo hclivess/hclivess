@@ -20,4 +20,4 @@
 - 🎸Punk / Indie Listener
 - 🎷 Tongue Blocker
 - 📙 SQLite Enjoyer
-- {} noSQL promoter
+- {} noSQL Promoter
