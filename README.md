@@ -9,6 +9,7 @@
 - 🏹 Builder and Enjoyer of Bows
 - 👨‍✈️ Builder and Enjoyer of FPV
 - 🅺🅸🆂🆂 Defender of Native Implementations
+- 📷 Usurper of Light
 - 🛋️ Defender of Otto F. Kernberg
 - 🇬🇷 Aristotle Hater
 - 🇬🇷 Plato Enjoyer
