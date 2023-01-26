@@ -16,3 +16,4 @@
 - ✝️️ Agnostic
 - Ⓐnarchist
 - ₿itcoin Minimalist
+- ❌ Contratian
