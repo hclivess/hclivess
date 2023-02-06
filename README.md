@@ -13,7 +13,7 @@
 - ₿itcoin Minimalist
 - 🐍 Python Maximalist
 - 👤 Hacker Apologist
-- 🖼️ NFT Generator
+- 🖼️ [NFT Generator](https://teia.art/cyphernormie)
 - ✡️ Ashkenazi Supremacist
 - 🪟 Windows Respecter
 - 🎸Punk / Indie Listener
