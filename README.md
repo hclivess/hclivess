@@ -21,3 +21,6 @@
 - 📙 SQLite Enjoyer
 - **{ }** noSQL Promoter
 - 🤔 INTJ Master Race
+
+![Jan's github stats](https://github-readme-stats.vercel.app/api?username=hclivess&show_icons=true)
+
