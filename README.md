@@ -1,3 +1,5 @@
+![Jan's github stats](https://github-readme-stats.vercel.app/api?username=hclivess&show_icons=true)
+
 ### Hi there 👋
 
 - 🧒 Father of [Bismuth](https://github.com/bismuthfoundation/Bismuth)
@@ -21,6 +23,4 @@
 - 📙 SQLite Enjoyer
 - **{ }** noSQL Promoter
 - 🤔 INTJ Master Race
-
-![Jan's github stats](https://github-readme-stats.vercel.app/api?username=hclivess&show_icons=true)
 
