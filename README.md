@@ -18,8 +18,6 @@
 - 🖼️ [NFT Generator](https://teia.art/cyphernormie)
 - ✡️ Ashkenazi Supremacist
 - 🪟 Windows Respecter
-- 🎸Punk / Indie Listener
-- 🎷 Tongue Blocker
 - 📙 SQLite Enjoyer
 - **{ }** noSQL Promoter
 - 🤔 INTJ Master Race
