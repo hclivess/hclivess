@@ -1,7 +1,3 @@
-![Jan's github stats](https://github-readme-stats.vercel.app/api?username=hclivess&show_icons=true)
-
-### Hi there 👋
-
 - 🧒 Father of [Bismuth](https://github.com/bismuthfoundation/Bismuth)
 - 👶 Father of [NADO](https://github.com/hclivess/nado)
 - 📖 Author of [videer](https://github.com/hclivess/videer), [sshauto](https://github.com/hclivess/sshauto)
