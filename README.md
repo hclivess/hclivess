@@ -1,4 +1,4 @@
-- 🧒 Father of [Bismuth](https://github.com/bismuthfoundation/Bismuth)
+- 🧒 Father of [Bismuth](https://github.com/hclivess/Bismuth)
 - 👶 Father of [NADO](https://github.com/hclivess/nado)
 - 📖 Author of [videer](https://github.com/hclivess/videer), [sshauto](https://github.com/hclivess/sshauto)
 - ⚗️ Enjoyer of Scents, Archery 🏹, Bow-Building, ELRS ✈️
