@@ -10,9 +10,6 @@
 - 🐍 Python Maximalist
 - 👤 Hacker Apologist
 - 🖼️ [NFT Generator](https://objkt.com/users/tz1iBMsrwVPsQ3aKRjBbdH22ium6enB9P7i8)
-- ✡️ Ashkenazi Supremacist
-- 🪟 Windows Respecter
 - 📙 SQLite Enjoyer
 - **{ }** noSQL Promoter
-- 🤔 INTJ Master Race
-
+- 🤔 INTJ
