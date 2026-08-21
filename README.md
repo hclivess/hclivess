@@ -32,15 +32,33 @@ reproduces every address and transaction ID bit-for-bit. A STARK-proven executio
 - Hovland, G., Kučera, J. — [Nonlinear Feedback Control and Stability Analysis of a Proof-of-Work Blockchain](https://doi.org/10.4173/mic.2017.4.1).
   *MIC* 38(4), 2017. Cited in IBM patent US 10,880,073.
 
-### Tools
+### Desktop tools
+
+A family of small, single-purpose desktop tools that share one design: drop files in, press Start, get the result.
+Every one ships as a **standalone build for Windows, Linux and macOS** on each release (no Python to install),
+self-tests its frozen binary in CI, previews before it writes, never leaves a partial file, and kills every helper
+it spawned when it quits.
 
 | | |
 |---|---|
+| [whisperer](https://github.com/hclivess/whisperer) | Batch subtitle generator — Whisper via faster-whisper or whisper.cpp, CPU or CUDA. Cue timing snapped to detected speech, resync of existing subtitles, soft-subtitle muxing. |
 | [speech-splitter](https://github.com/hclivess/speech-splitter) | Whisper + YAMNet pipeline turning raw recordings into Hugging Face-ready TTS training datasets. Produced the Czech corpora behind the [Chatterbox-TTS-Czech](https://huggingface.co/Thomcles/Chatterbox-TTS-Czech) fine-tune. |
-| [ollama-batch-processor](https://github.com/hclivess/ollama-batch-processor) | Qt GUI for batch LLM pipelines — translation, chunking, chained operations. |
-| [videer](https://github.com/hclivess/videer) | FFmpeg/AviSynth+ encoding GUI with QTGMC deinterlacing and CUDA. |
-| [dynatrace-mass-management](https://github.com/hclivess/dynatrace-mass-management) | Self-hosted Tornado portal for bulk operations across many Dynatrace tenants via the API. |
+| [videer](https://github.com/hclivess/videer) | FFmpeg/AviSynth+ encoding GUI with QTGMC deinterlacing, CUDA and VMAF scoring. |
+| [video-duplicate-finder](https://github.com/hclivess/video-duplicate-finder) | Finds duplicate videos by perceptual fingerprint, not file name. |
+| [nameer](https://github.com/hclivess/nameer) | Renames videos after what is inside them — codec, resolution, fps, bitrate, audio, languages — from a template. |
+| [exifer](https://github.com/hclivess/exifer) | Sets photo and video dates — file system and EXIF — from a fixed date, the file name, or the file's own metadata. |
+| [11copy](https://github.com/hclivess/11copy) | Folder synchronisation: one-way backup, two-way, mirror; preview first, atomic copies, verification. |
+| [edge-tts-gui](https://github.com/hclivess/edge-tts-gui) | Batch text-to-speech through the Microsoft Edge voices. |
+| [titulkovač](https://github.com/hclivess/titulkovac) | Repairs subtitle files and the broken Czech charsets they come in. |
+| [ollama-batch-processor](https://github.com/hclivess/ollama-batch-processor) | Batch LLM pipelines over local Ollama — translation, chunking, chained operations. |
+| [ezcoder](https://github.com/hclivess/ezcoder) | Message encryption with a GUI: hybrid post-quantum (X25519 + ML-KEM-768, Ed25519 + ML-DSA-65), Double Ratchet sessions. |
 | [screen-monitor](https://github.com/hclivess/screen-monitor) · [mandatum](https://github.com/hclivess/mandatum) | Rust client/server systems for Windows fleets: live screen monitoring and remote task execution. |
+
+### Other tools
+
+| | |
+|---|---|
+| [dynatrace-mass-management](https://github.com/hclivess/dynatrace-mass-management) | Self-hosted Tornado portal for bulk operations across many Dynatrace tenants via the API. |
 | [sshauto](https://github.com/hclivess/sshauto) | Automate repetitive SSH tasks — a lightweight alternative to Ansible. |
 
 ### Running in production
