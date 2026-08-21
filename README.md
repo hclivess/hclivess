@@ -52,7 +52,7 @@ it spawned when it quits.
 | <img src="https://raw.githubusercontent.com/hclivess/titulkovac/main/thumb.png" width="180" alt="titulkovac"> | [titulkovač](https://github.com/hclivess/titulkovac) | Repairs subtitle files and the broken Czech charsets they come in. |
 | <img src="https://raw.githubusercontent.com/hclivess/ollama-batch-processor/main/thumb.png" width="180" alt="ollama-batch-processor"> | [ollama-batch-processor](https://github.com/hclivess/ollama-batch-processor) | Batch LLM pipelines over local Ollama — translation, chunking, chained operations. |
 | <img src="https://raw.githubusercontent.com/hclivess/ezcoder/main/thumb.png" width="180" alt="ezcoder"> | [ezcoder](https://github.com/hclivess/ezcoder) | Message encryption with a GUI: hybrid post-quantum (X25519 + ML-KEM-768, Ed25519 + ML-DSA-65), Double Ratchet sessions. |
-| | [screen-monitor](https://github.com/hclivess/screen-monitor) · [mandatum](https://github.com/hclivess/mandatum) | Rust client/server systems for Windows fleets: live screen monitoring and remote task execution. |
+| <img src="https://raw.githubusercontent.com/hclivess/screen-monitor/main/thumb.png" width="180" alt="screen-monitor"> | [screen-monitor](https://github.com/hclivess/screen-monitor) · [mandatum](https://github.com/hclivess/mandatum) | Rust client/server systems for Windows fleets: live screen monitoring and remote task execution. |
 
 ### Other tools
 
