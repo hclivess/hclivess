@@ -21,9 +21,6 @@ implementation, so a zero-install browser page — wallet, miner, explorer, and 
 reproduces every address and transaction ID bit-for-bit. A STARK-proven execution layer
 (field-native zkVM) carries on-chain games, shielded transfers, and end-to-end-encrypted messaging.
 
-> **Testnet-stage alpha — not mainnet-launched.** The alphanet rerolls as consensus changes land.
-> Run it at your own risk; don't secure value of consequence with it yet.
-
 ### Research
 
 - Kučera, J., Hovland, G. — [Tail Removal Block Validation: Implementation and Analysis](https://doi.org/10.4173/mic.2018.3.1).
