@@ -21,6 +21,9 @@ implementation, so a zero-install browser page — wallet, miner, explorer, and 
 reproduces every address and transaction ID bit-for-bit. A STARK-proven execution layer
 (field-native zkVM) carries on-chain games, shielded transfers, and end-to-end-encrypted messaging.
 
+Also: [HoboNickels](https://github.com/hclivess/HoboNickels) — a 2014 proof-of-stake coin brought back to
+life on Ubuntu 24.04 / GCC 13 / OpenSSL 3 / Boost 1.83 with a CMake build, CI and Docker.
+
 ### Research
 
 - Kučera, J., Hovland, G. — [Tail Removal Block Validation: Implementation and Analysis](https://doi.org/10.4173/mic.2018.3.1).
@@ -28,6 +31,8 @@ reproduces every address and transaction ID bit-for-bit. A STARK-proven executio
   mainnet, cutting block times over 190 s from 5.4% to under 1% of blocks.
 - Hovland, G., Kučera, J. — [Nonlinear Feedback Control and Stability Analysis of a Proof-of-Work Blockchain](https://doi.org/10.4173/mic.2017.4.1).
   *MIC* 38(4), 2017. Cited in IBM patent US 10,880,073.
+- [stark-soundness-analysis](https://github.com/hclivess/stark-soundness-analysis) — concrete soundness
+  modelling for FRI-based STARKs: where the exploitable slack is. Companion work to nado's zkVM.
 
 ### Desktop tools
 
@@ -39,6 +44,8 @@ it spawned when it quits.
 | | | |
 |:---:|---|---|
 | <img src="https://raw.githubusercontent.com/hclivess/whisperer/main/thumb.png" width="180" alt="whisperer"> | [whisperer](https://github.com/hclivess/whisperer) | Batch subtitle generator — Whisper via faster-whisper or whisper.cpp, CPU or CUDA. Cue timing snapped to detected speech, resync of existing subtitles, soft-subtitle muxing. |
+| <img src="https://raw.githubusercontent.com/hclivess/summoner/main/thumb.png" width="180" alt="summoner"> | [summoner](https://github.com/hclivess/summoner) | Photo developer: drop raws or JPEGs in, press Start, get developed photos. Per-photo auto analysis — white balance from plausibly-grey pixels, highlight-protected exposure, local tone mapping — six profiles, live before/after. No catalogue, no import step. |
+| <img src="https://raw.githubusercontent.com/hclivess/diskmaster/main/thumb.png" width="180" alt="diskmaster"> | [diskmaster](https://github.com/hclivess/diskmaster) | Drive health monitor: native SMART, an explained health score, surface scans that name the files sitting on bad sectors, history and alerts. |
 | <img src="https://raw.githubusercontent.com/hclivess/speech-splitter/main/thumb.png" width="180" alt="speech-splitter"> | [speech-splitter](https://github.com/hclivess/speech-splitter) | Whisper + YAMNet pipeline turning raw recordings into Hugging Face-ready TTS training datasets. Produced the Czech corpora behind the [Chatterbox-TTS-Czech](https://huggingface.co/Thomcles/Chatterbox-TTS-Czech) fine-tune. |
 | <img src="https://raw.githubusercontent.com/hclivess/videer/main/thumb.png" width="180" alt="videer"> | [videer](https://github.com/hclivess/videer) | FFmpeg/AviSynth+ encoding GUI with QTGMC deinterlacing, CUDA and VMAF scoring. |
 | <img src="https://raw.githubusercontent.com/hclivess/video-duplicate-finder/main/thumb.png" width="180" alt="video-duplicate-finder"> | [video-duplicate-finder](https://github.com/hclivess/video-duplicate-finder) | Finds duplicate videos by perceptual fingerprint, not file name. |
@@ -57,6 +64,10 @@ it spawned when it quits.
 |:---:|---|---|
 | <img src="https://raw.githubusercontent.com/hclivess/dynatrace-mass-management/main/thumb.jpg" width="180" alt="dynatrace-mass-management"> | [dynatrace-mass-management](https://github.com/hclivess/dynatrace-mass-management) | Self-hosted Tornado portal for bulk operations across many Dynatrace tenants via the API. |
 | | [sshauto](https://github.com/hclivess/sshauto) | Automate repetitive SSH tasks — a lightweight alternative to Ansible. |
+| | [age-of-gore](https://github.com/hclivess/age-of-gore) | An Age of Empires II-style isometric RTS in WebGL2 with a std-only Rust relay. Everything procedural: no engine, no assets, no dependencies. |
+| | [rag-sqlite](https://github.com/hclivess/rag-sqlite) | Minimal, dependency-free RAG — documents and vectors in SQLite, built for learning. |
+| | [discord-security-bot](https://github.com/hclivess/discord-security-bot) | Discord anti-spam with instant cross-channel enforcement and a daily Claude AI security review. |
+| | [chatterbox-model-trainer](https://github.com/hclivess/chatterbox-model-trainer) | Trains Chatterbox-TTS voices — the training side of the speech-splitter datasets. |
 
 ### Running in production
 
