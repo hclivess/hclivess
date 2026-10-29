@@ -49,7 +49,7 @@ Drop files in, press Start, get the result. Standalone builds for Windows, Linux
 
 | | | |
 |:---:|---|---|
-| <img src="https://raw.githubusercontent.com/hclivess/dynatrace-mass-management/main/thumb.jpg" width="180" alt="dynatrace-mass-management"> | [dynatrace-mass-management](https://github.com/hclivess/dynatrace-mass-management) | Bulk operations across many Dynatrace tenants. |
+| <img src="https://raw.githubusercontent.com/hclivess/dynatrace-mass-management/main/docs/thumb.png" width="180" alt="dynatrace-mass-management"> | [dynatrace-mass-management](https://github.com/hclivess/dynatrace-mass-management) | Bulk operations across many Dynatrace tenants. |
 | | [sshauto](https://github.com/hclivess/sshauto) | Lightweight SSH automation, an Ansible alternative. |
 | <img src="https://raw.githubusercontent.com/hclivess/truewind/main/docs/preview.jpg" width="180" alt="truewind"> | [truewind](https://github.com/hclivess/truewind) | [Physics-first browser sailing simulator](https://hclivess.github.io/truewind/) with real coastlines and AI racing. |
 | <img src="thumbs/age-of-gore.jpg" width="180" alt="age-of-gore"> | [age-of-gore](https://ageofgore.com) | Procedural Age of Empires II-style RTS in WebGL2 with a Rust relay. |
