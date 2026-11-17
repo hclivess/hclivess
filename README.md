@@ -53,7 +53,9 @@ Drop files in, press Start, get the result. Standalone builds for Windows, Linux
 | | [sshauto](https://github.com/hclivess/sshauto) | Lightweight SSH automation, an Ansible alternative. |
 | <img src="https://raw.githubusercontent.com/hclivess/truewind/main/docs/preview.jpg" width="180" alt="truewind"> | [truewind](https://github.com/hclivess/truewind) | [Physics-first browser sailing simulator](https://hclivess.github.io/truewind/) with real coastlines and AI racing. |
 | <img src="thumbs/age-of-gore.jpg" width="180" alt="age-of-gore"> | [age-of-gore](https://ageofgore.com) | Procedural Age of Empires II-style RTS in WebGL2 with a Rust relay. |
-| | [rag-sqlite](https://github.com/hclivess/rag-sqlite) | Minimal, dependency-free RAG on SQLite. |
+| <img src="https://raw.githubusercontent.com/hclivess/rag-sqlite/main/thumb.png" width="180" alt="rag-sqlite"> | [rag-sqlite](https://github.com/hclivess/rag-sqlite) | Minimal RAG on one SQLite file, with a local page that shows every step: chunking, vectors, search, prompt. |
+| <img src="https://raw.githubusercontent.com/hclivess/langchain-steps/main/thumb.png" width="180" alt="langchain-steps"> | [langchain-steps](https://github.com/hclivess/langchain-steps) | A LangChain RAG chain you can watch: every component's input and output. Runs offline. |
+| <img src="https://raw.githubusercontent.com/hclivess/langgraph-steps/main/thumb.png" width="180" alt="langgraph-steps"> | [langgraph-steps](https://github.com/hclivess/langgraph-steps) | A LangGraph graph you can watch: nodes, state, conditional edges, interrupt, checkpoints. Runs offline. |
 | | [discord-security-bot](https://github.com/hclivess/discord-security-bot) | Discord anti-spam with a daily Claude security review. |
 | | [chatterbox-model-trainer](https://github.com/hclivess/chatterbox-model-trainer) | Trains Chatterbox-TTS voices from speech-splitter datasets. |
 
